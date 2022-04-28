@@ -1,20 +1,16 @@
 <template>
     <div class="text-center p-0 m-0 container-fluid">
-<!--        <Navbar />-->
         <div class="container">
-
+            <h1 class="text-3xl font-bold underline">
+                Hello world!!
+            </h1>
         </div>
     </div>
 </template>
 
 <script>
-// import Navbar from "@/components/Navbar.vue";
-
 export default {
     name: "HomePage",
-    components: {
-        // Navbar,
-    },
 };
 </script>
 
